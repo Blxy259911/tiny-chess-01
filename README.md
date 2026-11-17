@@ -6,6 +6,8 @@ A 4 KB Python chess engine for the make.fun tiny-chess-01 bounty: build the stro
 
 Local grading with the official kit scorer, 3 trials of 6 games vs the house gauntlet: mean Elo 1372 (1364 / 1654 / 1099), 10 wins, 1 draw, 7 losses.
 
+Engine version: v41 — slimming plus five bug fixes on v18 (transposition-table move ordering, quiescence check handling, push promotions, passed-pawn evaluation, repetition history).
+
 ## License
 
 MIT
